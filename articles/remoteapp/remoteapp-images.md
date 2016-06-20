@@ -82,6 +82,8 @@ And the following applications, as well:
 
 Full functionality of Office 365 ProPlus apps is available only for users who have an Office 365 ProPlus plan. For more details on the Office 365 subscription plans see [Office 365 service plans](http://technet.microsoft.com/library/office-365-plan-options.aspx). Still have questions? Check out the [Office 365 + RemoteApp](remoteapp-o365.md) information. Also check out the new article, [How to use your Office 365 subscription with Azure RemoteApp](remoteapp-officesubscription.md).
 
+Please note that OneDrive for Business Sync is no longer supported in Azure RemoteApp, in the future the OneDrive for Business client will be removed from this template image. For more information on the support statement see https://azure.microsoft.com/nl-nl/documentation/articles/remoteapp-onedrive/
+
 Note that you need to license Office 365 ProPlus, Visio Pro, and Project Pro separately - they each have their own license.
 
 ## Microsoft Office 2013 Professional Plus (trial only)
@@ -103,3 +105,5 @@ This image is an extension of the vanilla image and has the following components
 - Microsoft Office Proofing Tools
 
 > [AZURE.IMPORTANT]**Legal information:** This image does not include a Microsoft Office license and *cannot be used for production*. The Office 2013 Professional Plus image is intended for trial use only. If you want to use Office apps in Azure RemoteApp for production, you need to use the Office 365 ProPlus image. For more details on licensing Office, see [Using Office 365 with Azure RemoteApp](remoteapp-o365.md)
+
+Please note that OneDrive for Business Sync is no longer supported in Azure RemoteApp, in the future the OneDrive for Business client will be removed from this template image. For more information on the support statement see https://azure.microsoft.com/nl-nl/documentation/articles/remoteapp-onedrive/
